@@ -1,4 +1,4 @@
-# Coin-Flp
+# Coin-Flip
 
 * App uses react for the front end with web3 to make calls to the contract. 
 * This contract is deployed on the Rinkeby test network at the address: 0x27Ce51AC010796AC501F06411ad1d49d824cd1b3.
